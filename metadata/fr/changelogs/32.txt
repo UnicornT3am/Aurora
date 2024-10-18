@@ -1,0 +1,6 @@
+- Mise à jour : Design vers MD3
+- Mise à jour : Meilleure UX pour les captures d'écrans
+- Correction : Gel durant l'installation de l'application avec la méthode root
+- Mise à jour : Profils de thématisation revus
+- Ajout : Partage de lien (Seulement le F-Droid officiel pour l'instant)
+- Autres petites corrections d'éléments UI/UX

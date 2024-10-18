@@ -1,0 +1,5 @@
+Fejlrettelse: Viser opdateringsmeddelelse, selv når deaktiveret
+Tilføjet: Threema, Stable Calyx OS og Session til forudindstillede repositories
+Fejlrettelse(forsøg): Baggrundsinstallatør
+Tilføjet: Udgivelsesapks og billedcache opbevaringsindstillinger
+Opdateret: Oversættelse

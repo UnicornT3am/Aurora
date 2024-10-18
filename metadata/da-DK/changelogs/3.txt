@@ -1,0 +1,5 @@
+* Tilføjet AMOLED-tema
+* Tilføjet Stille Root-Installation
+* Tilføjede Følgende Sprog:-
+    * Portugisisk
+    * Kinesisk

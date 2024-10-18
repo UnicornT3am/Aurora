@@ -1,0 +1,11 @@
+Klien F-Droid cepat yang kaya fitur:
+
+* UX yang berfokus pada pemberdayaan pengguna
+* Tidak ada kartu atau animasi yang tidak pantas
+* Sinkronisasi repositori yang cepat
+* Komponen Android standar dan ketergantungan minimal
+
+Adaptasi/modifikasi langsung dari Foxy-Droid
+
+Perangkat lunak bebas copylefted, berlisensi GPLv3+. \
+Gunakan, pelajari, ubah, dan bagikan; dengan semua orang.

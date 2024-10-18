@@ -1,0 +1,4 @@
+* Verschiedene UI-Anpassungen
+* Gesamte Codebase neu formatiert
+* Abhängigkeiten upgedated
+* Preferences zu Settings umbenannt

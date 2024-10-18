@@ -1,0 +1,5 @@
+Fix: Showing updates notification even when disabled
+Add: Threema, Stable Calyx OS and Session to preset-repositories
+Fix(try): Background installer
+Add: Release apks and images cache retention options
+Update translation

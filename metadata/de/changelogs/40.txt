@@ -1,0 +1,5 @@
+- Hinzugefügt: Spracheinstellung
+- Update: Screenshots für horizontales Scrollen
+- Fix: Hintergrund-Root-Installer
+- Hinzugefügt: root wird nur abgefragt, wenn ausgewählt
+- Viele UX/UI Verbesserungen

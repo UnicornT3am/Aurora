@@ -1,0 +1,3 @@
+- Anciennes icônes remplacées par des icônes Material
+- Problèmes de la barre supérieure de l'application résolus
+- Ajout d'icônes au bouton Installer et Annuler afin d'améliorer l'accessibilité

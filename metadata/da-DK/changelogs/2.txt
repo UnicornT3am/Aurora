@@ -1,0 +1,4 @@
+* Diverse UI-ændringer
+* Omformateret hele kodebasen
+* Opdaterede Afhængigheder
+* Omdøbte Præferencer til Indstillinger

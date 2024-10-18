@@ -1,0 +1,7 @@
+- Tilføjet Ikon til åbning af Detaljer
+- Forskelle i Øverste app-linje er gjort mere synlige
+- Root Tilladelse spørges kun om, når det bruges
+- Rettelser af Knappens Synlighed
+- Tilføjet Arabisk Oversættelse
+- Hold nede på Kildeikonet for at kopiere link
+- Erstat Toast med Snackbar

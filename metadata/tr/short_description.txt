@@ -1,0 +1,1 @@
+Zengin özelliklere sahip modern bir F-Droid istemcisi.

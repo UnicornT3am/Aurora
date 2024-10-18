@@ -1,0 +1,7 @@
+Tilføjet: Sortér/filter-funktion
+Tilføjet: Eksplicit genvej til favoritter
+Tilføjet: TargetSDK til infochips
+Opdateret: Erstat Material-ikoner med Phosphor
+Opdateret: BottomNavBar, AppSheet's og EditRepoSheet's layouts
+Fejlrettelse: Viser opdatering af sekundær handling under hentning
+Se den fulde ændringslog for flere detaljer…

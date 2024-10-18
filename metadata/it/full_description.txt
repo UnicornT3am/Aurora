@@ -1,0 +1,11 @@
+Un rapido client F-Droid ricco di funzionalità:
+
+* UX incentrata sul potenziamento degli utenti
+* Nessuna carta o animazione inappropriata
+* Sincronizzazione veloce del repository
+* Componenti Android standard e dipendenze minime
+
+Un adattamento/modifica diretta di Foxy-Droid
+
+Software libero con copyleft, licenza GPLv3+. \
+Usa, studia, modifica e condividi; con tutti.

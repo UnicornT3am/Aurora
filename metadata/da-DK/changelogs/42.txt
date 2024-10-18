@@ -1,0 +1,6 @@
+- Mere om Material Design 3
+- Fejlrettelse: Root- og standardinstallatør
+- Fejlrettelse: Slet Cachelagret Fil efter Afinstallation
+- Fejlrettelse: Nedbrud ved tryk på hent, når offline
+- Opdateret: Oversættelser af over 17 sprog
+- Mange små rettelser og tilpasninger…

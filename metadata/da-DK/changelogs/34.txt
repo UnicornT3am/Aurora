@@ -1,0 +1,6 @@
+- Opdateret: Minimerbar værktøjslinje
+- Opdateret: Forbedrede installatører (Root & ikke-root)
+- Opdateret: Nyt app-ikon(igen)
+- Opdateret: Frigiv infoblok-design
+- Opdateret: Få styr på manglende forfatternavne og -ikoner
+- Andre fejlrettelser, justeringer og rengøring

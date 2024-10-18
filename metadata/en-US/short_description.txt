@@ -1,0 +1,1 @@
+A modern feature-rich F-Droid client.

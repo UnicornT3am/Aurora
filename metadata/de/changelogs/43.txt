@@ -1,0 +1,4 @@
+- Fix: Screenshot Platzhalter-Icon
+- Fix: Soft Crash wenn App-Details aufgerufen werden
+- Fix: Nur eine Instanz des Root-Installers wird ausgeführt
+- Fix: Root-Installer

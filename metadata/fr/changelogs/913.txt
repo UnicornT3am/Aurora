@@ -1,0 +1,7 @@
+Ajout : Catégorie "Favoris
+Ajout : Option pour définir l'intervalle de synchronisation
+Ajout : Prise en charge de l'importation automatique des dépôts fdroid : adresses des dépôts à partir du presse-papier
+Correction : Défilement imbriqué de AppSheet
+Correction : Décompte des applications du dépôt
+Correction : Permettre la rétention des apk jusqu'à ce qu'elles soient "consommées".
+Mise à jour : Possibilité de sélectionner le texte de description/changelog de l'application

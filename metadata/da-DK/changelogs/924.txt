@@ -1,0 +1,6 @@
+Tilføjet: Advarsler om apps med kendte sårbarheder
+Fejlrettelse: Forbedre ydelsesoverbelastning forårsaget af søgning (tak til @SocratesDz)
+Fejlrettelse: Nedbrud af installatør
+Opdateret: Fornyet auto-synkroniseringsfunktionalitet
+Opdateret: Fornyet RepoSheets
++ mere end 60 oversættelsesbidrag

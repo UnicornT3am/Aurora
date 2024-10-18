@@ -1,0 +1,7 @@
+Fejlrettelse: Registrerer ikke root-tilladelse
+Fejlrettelse: Synkroniserings- og downloadtjeneste-relaterede nedbrud
+Opdateret: Fornyet InstalleretSide
+Tilføjet: Mulighed for at deaktivere få/vis sporing
+Tilføjet: FluffyChat nightly, Anonymous Messenger og BeoCode til standard repos
+Fejlrettelse: Opdaterer ikke listen over installerede apps ved (af)installation af apps
++ mere end 80 oversættelser og andre bidrag

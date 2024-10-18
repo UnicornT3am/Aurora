@@ -1,0 +1,7 @@
+- Helt ny UI/UX med Material Design 3
+- Tilføjet: Opdatér alle-knap
+- Tilføjet: Sprogpræference
+- Tilføjet: Favorit (flere funktioner kommer senere)
+- Fejlrettelse: Auto-opdatering af installerede/opdaterede lister
+- Fejlrettelse: Nedbrud på A12+ (skal deaktivere batterioptimering)
+- Fejlrettelse: Root-installatør

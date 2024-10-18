@@ -1,0 +1,11 @@
+En funktionsrig, hurtig F-Droid-klient:
+
+* UX fokuseret på at give brugere kontrol
+* Ingen kort eller upassende animationer
+* Hurtig synkronisering af depoter
+* Standard Android-komponenter og minimale afhængigheder
+
+En direkte adaptering/modifikation af Foxy-Droid
+
+Kopibenyttet libre-software, licenseret GPLv3+. \
+Brug, undersøg, ændr og del; med alle.

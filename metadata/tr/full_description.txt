@@ -1,0 +1,9 @@
+Zengin özelliklere sahip hızlı F-Droid istemcisi: 
+* Kullanıcıları güçlendirmeye odaklı UX 
+* Kart veya uygunsuz animasyon yok 
+* Hızlı depo senkronizasyonu 
+* Standart Android bileşenleri ve minimum 
+bağımlılıklar Foxy-Droid
+ 
+ 
+Copylefted libre yazılımının doğrudan uyarlaması/modifikasyonu, lisanslı GPLv3+. \  Kullanın, inceleyin, değiştirin ve paylaşın; hepsiyle.

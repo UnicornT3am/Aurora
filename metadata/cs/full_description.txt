@@ -1,0 +1,11 @@
+Rychlý klient pro F-Droid s mnoha funkcemi:
+
+* Rozhraní zaměřené na uživatele
+* Žádné karty nebo nevhodné animace
+* Rychlá synchronizace repozitářů
+* Standardní komponenty systému Android a minimální závislosti
+
+Přímá adaptace/modifikace aplikace Foxy-Droid
+
+Copyleftovaný svobodný software s licencí GPLv3+.
+Používejte, studujte, měňte a sdílejte; se všemi.

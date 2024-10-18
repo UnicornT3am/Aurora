@@ -1,0 +1,9 @@
+- Añadir: Tema dinámico del sistema (aka. Material You)
+- Añadiido: 7 nuevos repositorios de preajustes
+- Añadir: Etiqueta de arquitectura en los nuevos lanzamientos
+- Eliminado: UnifiedPush repo (muerto)
+- Arreglar: Molesta notificación de 0 actualizaciones
+- Solucionado: Ocultar el enlace del sitio web del autor cuando no está disponible
+- Corregido: Análisis del portapapeles para el URI del repo
+- Corrección: Enlaces en la configuración
+- Corregido: No mostrar la actualización

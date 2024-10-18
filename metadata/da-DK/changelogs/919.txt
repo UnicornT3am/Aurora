@@ -1,0 +1,3 @@
+Tilføjet: Scan repo QrCode ved brug af BinaryEye (hvis installeret)
+Fejlrettelse: Lås i Installeret efter opstart fra opdateringsnotifikation
+Fejlrettelse: Forbedret håndtering af hensigt

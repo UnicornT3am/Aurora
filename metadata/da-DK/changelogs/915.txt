@@ -1,0 +1,7 @@
+Opdateret: Fornyet AppSheets UI
+Opdateret: Migrér navigation helt til Compose
+Opdateret: Migrér præferencer til Compose
+Opdateret: Tillad at indstille højere tal for opdaterede/nye apps' genbrugs- og synkroniseringsinterval
+Tilføjet: Nyttige links i Præferencer
+Fejlrettelse: Handlingsknapper synlighed
+Fejlrettelse: Vis Repo-beskrivelse før første synkronisering

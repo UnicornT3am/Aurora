@@ -1,0 +1,7 @@
+Tilføjet: Favoritter-kategori
+Tilføjet: Valg af synkroniseringsinterval
+Tilføjet: Understøttelse af auto-import af fdroidrepos: repo-adresser fra udklipsholderen
+Fejlrettelse: Indlejret rulning af AppSheet
+Fejlrettelse: Antal apps i repository
+Fejlrettelse: Tillad opbevaring af apk indtil "forbrugt"
+Opdateret: Gør app-beskrivelse/ændringslog-tekst markerbar
